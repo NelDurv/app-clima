@@ -1,3 +1,6 @@
+
+![imagen alt](https://github.com/NelDurv/app-clima/blob/1155d5644394c33b6af5726a4147d01559dc57ea/cambioClimatico.png)
+
 # app-clima
 
 
